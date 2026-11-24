@@ -1,4 +1,4 @@
-# Texas PSF Library
+# Finance Library
 
 The goal behind this library is to have  shortcuts for commonly used functions or actions within finance. To help reduce time spent on building, improve accuracy on calculations, and ensure consistent results. The library is split up into 4 major groups cleaning, calculations, plotting, and building. Each work together to help improve workflows, by cleaning the data so it works properly for different calculations and graphs. 
 
